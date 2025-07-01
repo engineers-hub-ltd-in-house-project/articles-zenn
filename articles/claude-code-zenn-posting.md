@@ -3,7 +3,7 @@ title: "Claude CodeからZennに記事を投稿する方法"
 emoji: "🚀"
 type: "tech"
 topics: ["claudecode", "zenn", "git", "automation", "ai"]
-published: false
+published: true
 ---
 
 # はじめに
